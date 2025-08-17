@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola desde rama A
+=======
+Hola desde rama B
+>>>>>>> conflicto-b
